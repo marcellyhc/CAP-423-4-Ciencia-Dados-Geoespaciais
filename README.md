@@ -1,6 +1,6 @@
 # CAP-423-4-Ciencia-Dados-Geoespaciais
 
-Módulo: Classificação de uso e cobertura da terra usando séries temporais e machine learning
+## Módulo: Classificação de uso e cobertura da terra usando séries temporais e machine learning
 
 Objetivo: 
 Elaborar e resolver um problema que envolva uma ou mais das seguintes aplicações: 
